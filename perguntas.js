@@ -5,9 +5,9 @@ criaCartao(
 )
 
 criaCartao(
-    'Metal Gear Rising: Revengeance',
-    'Qual é o nome da organização antagonista principal no jogo?',
-    'Desperado Enforcement'
+    'Battlefield',
+    'Qual jogo da série se passa durante a Primeira Guerra Mundial?',
+    'Battlefield 1'
 )
 
 criaCartao(
@@ -17,9 +17,9 @@ criaCartao(
 )
 
 criaCartao(
-    'Metal Gear Rising: Revengeance',
-    'Qual habilidade principal de Raiden é usada para cortar objetos com precisão?',
-    'Zandatsu'
+    'Red Dead Redemption 2',
+    'Quem é o protagonista principal do jogo?',
+    'Arthur Morgan'
 )
 
 criaCartao(
@@ -29,8 +29,8 @@ criaCartao(
 )
 
 criaCartao(
-    'Metal Gear Rising: Revengeance',
-    'Quem é o aliado de Raiden durante a missão em Abkhazia?',
-    'Bladewolf (LQ-84i)'
+    'Subnautica',
+    'Qual é o nome da sequência do jogo Subnautica?',
+    'Subnautica: Below Zero'
 )
 
