@@ -1,35 +1,36 @@
 criaCartao(
-    'Basquete',
-    'Qual time tem mais títulos da NBA?',
-    'Boston Celtics'
+    'Metal Gear Rising: Revengeance',
+    'Quem é o protagonista do jogo?',
+    'Raiden'
 )
 
 criaCartao(
-    'Basquete',
-    'Quem é o maior pontuador da história da NBA?',
-    'Kareem Abdul-Jabbar'
+    'Metal Gear Rising: Revengeance',
+    'Qual é o nome da organização antagonista principal no jogo?',
+    'Desperado Enforcement'
 )
 
 criaCartao(
-    'Basquete',
-    'Quem é considerado o melhor jogador de basquete de todos os tempos?',
-    'Michael Jordan'
+    'Metal Gear Rising: Revengeance',
+    'Quem é o vilão principal que Raiden enfrenta no final?',
+    'Senator Steven Armstrong'
 )
 
 criaCartao(
-    'Basquete',
-    'Quantos pontos é uma cesta de 3 pontos na NBA?',
-    '3 pontos'
+    'Metal Gear Rising: Revengeance',
+    'Qual habilidade principal de Raiden é usada para cortar objetos com precisão?',
+    'Zandatsu'
 )
 
 criaCartao(
-    'Basquete',
-    'Qual time tem mais títulos da NBA?',
-    'Los Angeles Lakers'
+    'Metal Gear Rising: Revengeance',
+    'Qual é o nome da espada de Raiden?',
+    'Murasama'
 )
 
 criaCartao(
-    'Basquete',
-    'Quem foi o MVP das finais da NBA em 2021?',
-    'Giannis Antetokounmpo'
+    'Metal Gear Rising: Revengeance',
+    'Quem é o aliado de Raiden durante a missão em Abkhazia?',
+    'Bladewolf (LQ-84i)'
 )
+
